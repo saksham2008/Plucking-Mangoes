@@ -10,7 +10,7 @@ var boy,boyImg;
 
 function preload()
 {
-	boyImg = loadImage("boy.png");
+	boyImg = loadImage("Images/boy.png");
 }
 
 function setup() {
